@@ -59,6 +59,9 @@ This project is licensed under the Mozilla Public License 2.0 (MPL-2.0).
 
 ## 6. Screenshots
 
+* Picky GUI Activation
+<img width="1252" height="872" alt="Näyttökuva 2026-01-11 191812" src="https://github.com/user-attachments/assets/1398f7ed-32aa-4beb-a47d-9f8a9988bbbb" />
+
 * Picky Main Interface in Korean
 ![IMG_2652](https://github.com/user-attachments/assets/ca7ccb8b-7124-4ce8-98b4-5fe50e50384b)
 
